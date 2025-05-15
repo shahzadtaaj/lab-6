@@ -1,0 +1,5 @@
+console.writeline("apples");
+console.writeline("mango");
+console.writeline("banana");
+console.writeline("grapes");
+console.writeline("sugar");
